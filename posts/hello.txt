@@ -2,7 +2,7 @@
 	"title" : "Hellos",
 	"author" : "Drew Lenhart",
         "date" : "2015-03-09",
-        "slug" : "post1"
+        "slug" : "post1s"
 }
 #content#
-asfsfsdfs sdds
+asfsfsdfs sddssd
